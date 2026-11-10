@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 打包产物
+build/
+dist/
+*.spec
+
+# 运行输出
+output/
+ocr_output/
+output_gui/
+output_cam/
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
