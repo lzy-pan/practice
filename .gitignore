@@ -17,6 +17,10 @@ output_gui/
 output_cam/
 *.log
 
+# IDE
+.idea/
+.vscode/
+
 # 系统
 .DS_Store
 Thumbs.db
