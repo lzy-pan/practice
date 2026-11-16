@@ -1,0 +1,14 @@
+# 数据与产物
+data/mvtec/
+data/samples.json
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/

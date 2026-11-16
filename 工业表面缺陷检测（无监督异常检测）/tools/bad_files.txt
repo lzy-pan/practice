@@ -1,0 +1,7 @@
+carpet/test/cut/001-62.png
+carpet/test/cut/002-62.png
+carpet/test/cut/015-52.png
+carpet/test/good/018-35.png
+carpet/test/good/024-18.png
+carpet/test/good/026-14.png
+carpet/test/good/027-14.png
